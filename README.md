@@ -1,6 +1,6 @@
 # Book Genres Classification
 
-Multilabel book-genre classification using each book's description. The project extracts the top-level genres from hierarchical topic labels and compares convolutional and recurrent neural network models implemented with PyTorch.
+Multilabel book-genre classification using each book's description. The project extracts the **top-level** genres from hierarchical topic labels and compares convolutional and recurrent neural network models implemented with PyTorch.
 
 ## Project contents
 
